@@ -1,0 +1,24 @@
+Create Scanner object
+Initialize variables
+Initialize Array
+
+While still in array
+	Take in number from user
+	
+	Check if within range 10 – 100
+	If yes
+	   Set duplicate to false
+   	   Increment
+	Else 
+ 	    Error
+	
+	If number equals array element
+	   Set duplicate to true
+
+	If duplicate is false
+	      Insert number to array
+	Else
+	        Error
+
+	Print elements of the Array
+	End
